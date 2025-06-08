@@ -1,0 +1,201 @@
+[
+    {
+        "args": [
+            "Grid"
+        ],
+        "key": "vwe6q6i6",
+        "method": "Array2DTracer"
+    },
+    {
+        "args": [
+            "Console"
+        ],
+        "key": "w0hf21c5",
+        "method": "LogTracer"
+    },
+    {
+        "args": [
+            [
+                "vwe6q6i6",
+                "w0hf21c5"
+            ]
+        ],
+        "key": "mhg1f4b6",
+        "method": "VerticalLayout"
+    },
+    {
+        "args": [
+            "mhg1f4b6"
+        ],
+        "key": null,
+        "method": "setRoot"
+    },
+    {
+        "args": [
+            [
+                "Visualize",
+                "your",
+                "own",
+                "code",
+                "here!"
+            ]
+        ],
+        "key": "vwe6q6i6",
+        "method": "set"
+    },
+    {
+        "args": [],
+        "key": null,
+        "method": "delay"
+    },
+    {
+        "args": [
+            "Visualize"
+        ],
+        "key": "w0hf21c5",
+        "method": "println"
+    },
+    {
+        "args": [
+            0,
+            0,
+            8
+        ],
+        "key": "vwe6q6i6",
+        "method": "selectRow"
+    },
+    {
+        "args": [],
+        "key": null,
+        "method": "delay"
+    },
+    {
+        "args": [
+            0,
+            0,
+            8
+        ],
+        "key": "vwe6q6i6",
+        "method": "deselectRow"
+    },
+    {
+        "args": [
+            "your"
+        ],
+        "key": "w0hf21c5",
+        "method": "println"
+    },
+    {
+        "args": [
+            1,
+            0,
+            3
+        ],
+        "key": "vwe6q6i6",
+        "method": "selectRow"
+    },
+    {
+        "args": [],
+        "key": null,
+        "method": "delay"
+    },
+    {
+        "args": [
+            1,
+            0,
+            3
+        ],
+        "key": "vwe6q6i6",
+        "method": "deselectRow"
+    },
+    {
+        "args": [
+            "own"
+        ],
+        "key": "w0hf21c5",
+        "method": "println"
+    },
+    {
+        "args": [
+            2,
+            0,
+            2
+        ],
+        "key": "vwe6q6i6",
+        "method": "selectRow"
+    },
+    {
+        "args": [],
+        "key": null,
+        "method": "delay"
+    },
+    {
+        "args": [
+            2,
+            0,
+            2
+        ],
+        "key": "vwe6q6i6",
+        "method": "deselectRow"
+    },
+    {
+        "args": [
+            "code"
+        ],
+        "key": "w0hf21c5",
+        "method": "println"
+    },
+    {
+        "args": [
+            3,
+            0,
+            3
+        ],
+        "key": "vwe6q6i6",
+        "method": "selectRow"
+    },
+    {
+        "args": [],
+        "key": null,
+        "method": "delay"
+    },
+    {
+        "args": [
+            3,
+            0,
+            3
+        ],
+        "key": "vwe6q6i6",
+        "method": "deselectRow"
+    },
+    {
+        "args": [
+            "here!"
+        ],
+        "key": "w0hf21c5",
+        "method": "println"
+    },
+    {
+        "args": [
+            4,
+            0,
+            4
+        ],
+        "key": "vwe6q6i6",
+        "method": "selectRow"
+    },
+    {
+        "args": [],
+        "key": null,
+        "method": "delay"
+    },
+    {
+        "args": [
+            4,
+            0,
+            4
+        ],
+        "key": "vwe6q6i6",
+        "method": "deselectRow"
+    }
+]

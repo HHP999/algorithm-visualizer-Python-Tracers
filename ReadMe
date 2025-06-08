@@ -1,0 +1,15 @@
+1. If you don't mind, you can directly put the algorithm_visualizer folder in
+    the site-packages directory of the python environment, so that the user's code
+    will be automatically recognized. Of course, you can also use other methods.
+2. I use the script running method to link the Linux Python environment.
+    Before use, please write the Python directory into the environment variable: $CodeEnvPackagesPath
+3. Run the test.py or bash tracers_run script
+4. This project still has unknown defects, use it with caution
+
+1. 如果你不介意，可以直接将algorithm_visualizer文件夹放到python环境的site-packages目录下，
+    这样用户的代码会自动识别。当然，你也可以使用其他方式。
+2. 我使用脚本运行的方式，通过链接Linux的Python环境，使用前请将Python的目录写入环境变量：
+    $CodeEnvPackagesPath
+3. 运行 test.py 或者 bash tracers_run 脚本
+4. 该项目还有不明缺陷，谨慎使用
+

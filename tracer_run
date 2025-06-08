@@ -1,0 +1,19 @@
+#!/bin/bash
+
+# 设置默认路径（如果没有设置环境变量）
+source "/Programs/CodeEnvs/environment"
+
+export PATH=$CodeEnvPackagesPath/python/3.10.0/bin:$PATH
+
+echo "Using Python at: $(which python3.10)"
+
+script_path="$1"
+
+if [[ ! -f "$script_path" ]]; then
+  echo "Error: script file '$script_path' does not exist."
+  exit 1
+fi
+
+python3.10 "$script_path"
+
+rm "$script_path"
